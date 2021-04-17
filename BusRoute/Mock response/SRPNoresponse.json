@@ -1,0 +1,52 @@
+{
+  "routeInfo": [
+    {
+      "id": "r002",
+      "name": "k-12",
+      "source": "Yashwantpur",
+      "tripDuration": "2hrs",
+      "destination": "Marathahalli",
+      "icon": "http://"
+
+    },
+    {
+      "id": "r003",
+      "name": "k-11",
+      "tripDuration": "45 min",
+      "source": "Koramangala",
+      "destination": "Bomanhalli",
+      "icon": "http://"
+    },
+    {
+      "id": "r004",
+      "name": "k-14",
+      "source": "E City",
+      "tripDuration": "1hrs",
+      "destination": "Silk Board",
+      "icon": "http://"
+    },
+    {
+      "id": "r001",
+      "name": "R-1",
+      "source": "Marathahalli",
+      "tripDuration": "2hrs",
+      "destination": "E City",
+      "icon": "http://"
+    },
+    {
+      "id": "r005",
+      "name": "G-12",
+      "tripDuration": "2hrs",
+      "source": "Koramangala",
+      "destination": "E City",
+      "icon": "http://"
+    }
+  ],
+  "routeTimings": {
+    "r002": [],
+    "r005": [],
+    "r001": [],
+    "r004": [],
+    "r003": []
+  }
+}

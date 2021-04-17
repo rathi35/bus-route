@@ -1,0 +1,11 @@
+#pods folder
+Pods
+
+#podlock
+Podfile.lock
+
+#DS Store
+.DS_Store
+
+#userdata
+**/xcuserdata/*

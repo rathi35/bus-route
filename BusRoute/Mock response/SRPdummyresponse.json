@@ -1,0 +1,31 @@
+{
+  "routeInfo": [
+    {
+      "id": "r002",
+      "name": "k-12",
+      "source": "E city",
+      "tripDuration": "3hrs",
+      "destination": "Silk Board",
+      "icon": "http://"
+
+    }
+  ],
+  "routeTimings": {
+    "r002": [
+      {
+        "totalSeats": 30,
+        "avaiable": 15,
+        "tripStartTime": "23:40"
+      },
+      {
+        "totalSeats": 25,
+        "avaiable": 10,
+        "tripStartTime": "23:45"
+      }
+    ],
+    "r005": [],
+    "r001": [],
+    "r004": [],
+    "r003": []
+  }
+}
